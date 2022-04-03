@@ -11,3 +11,5 @@
 [![CI](https://github.com/AkhileshShindhe/Step_in_cashflow-management-system/actions/workflows/main.yml/badge.svg)](https://github.com/AkhileshShindhe/Step_in_cashflow-management-system/actions/workflows/main.yml)
 
 [![C windows Build](https://github.com/Roopa200/M1_SalaryManagmentSystem/actions/workflows/windoesbuild.yml/badge.svg)](https://github.com/Roopa200/M1_SalaryManagmentSystem/actions/workflows/windoesbuild.yml)
+
+[![Build CI - Linux](https://github.com/Roopa200/M1_SalaryManagmentSystem/actions/workflows/linuxbuild.yml/badge.svg)](https://github.com/Roopa200/M1_SalaryManagmentSystem/actions/workflows/linuxbuild.yml)
